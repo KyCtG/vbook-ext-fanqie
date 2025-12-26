@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "name": "ftomato",
+    "author": "kychitoge",
+    "version": 1,
+    "source": "fanqienovel.com",
+    "regexp": "fanqienovel.com/page/(\\d+)",
+    "description": "Extension kết nối fqapi cá nhân của Kỳ",
+    "locale": "zh_CN",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

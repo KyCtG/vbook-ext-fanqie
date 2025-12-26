@@ -1,0 +1,16 @@
+# Các file đóng gói (Build artifacts)
+*.zip
+*.vbook
+
+# File rác của hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Cấu hình riêng của IDE (tùy chọn)
+.vscode/
+.idea/
+
+# Các file chứa thông tin nhạy cảm 
+.env
+secret.json
+src/config.js
