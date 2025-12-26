@@ -13,4 +13,3 @@ Thumbs.db
 # Các file chứa thông tin nhạy cảm 
 .env
 secret.json
-src/config.js
